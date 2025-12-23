@@ -1,0 +1,60 @@
+
+{
+  "users": [
+    {
+      "userId": "550e8400-e29b-41d4-a716-446655440001",
+      "name": "Priya Sharma",
+      "email": "priya.sharma@example.com",
+      "phoneNumber": "+91-9876543210",
+      "dateOfBirth": "1992-05-15",
+      "address": "123, MG Road, Mumbai, Maharashtra, 400001, India",
+      "createdAt": "2023-01-15T10:30:00Z",
+      "lastLogin": "2024-12-20T14:25:30Z",
+      "isActive": true
+    },
+    {
+      "userId": "550e8400-e29b-41d4-a716-446655440002",
+      "name": "Rahul Verma",
+      "email": "rahul.verma@example.com",
+      "phoneNumber": "+91-9876543220",
+      "dateOfBirth": "1988-08-22",
+      "address": "456, Brigade Road, Bangalore, Karnataka, 560001, India",
+      "createdAt": "2023-03-20T11:45:00Z",
+      "lastLogin": "2024-12-22T09:15:20Z",
+      "isActive": true
+    },
+    {
+      "userId": "550e8400-e29b-41d4-a716-446655440003",
+      "name": "Ananya Patel",
+      "email": "ananya.patel@example.com",
+      "phoneNumber": "+91-9876543230",
+      "dateOfBirth": "1995-12-10",
+      "address": "789, Civil Lines, Delhi, Delhi, 110054, India",
+      "createdAt": "2023-06-10T09:20:00Z",
+      "lastLogin": "2024-12-23T08:40:15Z",
+      "isActive": true
+    },
+    {
+      "userId": "550e8400-e29b-41d4-a716-446655440004",
+      "name": "Vikram Singh",
+      "email": "vikram.singh@example.com",
+      "phoneNumber": "+91-9876543240",
+      "dateOfBirth": "1990-03-18",
+      "address": "321, Park Street, Kolkata, West Bengal, 700016, India",
+      "createdAt": "2023-08-05T15:10:00Z",
+      "lastLogin": "2024-12-21T16:30:45Z",
+      "isActive": true
+    },
+    {
+      "userId": "550e8400-e29b-41d4-a716-446655440005",
+      "name": "Meera Reddy",
+      "email": "meera.reddy@example.com",
+      "phoneNumber": "+91-9876543250",
+      "dateOfBirth": "1993-07-25",
+      "address": "567, Jubilee Hills, Hyderabad, Telangana, 500033, India",
+      "createdAt": "2023-11-12T12:30:00Z",
+      "lastLogin": "2024-12-23T11:20:10Z",
+      "isActive": true
+    }
+  ]
+}
