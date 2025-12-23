@@ -1,0 +1,11 @@
+
+services:
+  - type: web
+    name: d2c-skincare-backend
+    runtime: docker
+    plan: free
+    region: singapore
+    healthCheckPath: /
+    envVars:
+      - key: PORT
+        generateValue: true

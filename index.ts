@@ -3,7 +3,7 @@ const usersData = await Bun.file("data/users.json").json();
 const ordersData = await Bun.file("data/orders.json").json();
 
 const server = Bun.serve({
-  port: 3000,
+  port: process.env.PORT || 3000,
   async fetch(req) {
     const url = new URL(req.url);
     const path = url.pathname;

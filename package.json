@@ -2,7 +2,8 @@
   "name": "d2c-skincare-backend",
   "module": "index.ts",
   "scripts": {
-    "dev": "bun index.ts"
+    "dev": "bun index.ts",
+    "start": "bun run index.ts"
   },
   "type": "module",
   "private": true,
